@@ -1,0 +1,23 @@
+{
+  "name": "html5-drag",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vrxubo/html5-drag.git"
+  },
+  "keywords": [
+    "html5",
+    "drag"
+  ],
+  "author": "xubo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vrxubo/html5-drag/issues"
+  },
+  "homepage": "https://github.com/vrxubo/html5-drag#readme"
+}
